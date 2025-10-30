@@ -53,19 +53,19 @@ Ensure **XAMPP** is installed and running on your computer.
 
 # 🌐 How to Use
 
-# 1️⃣ Access the Project
+1️⃣ Access the Project
 Open your browser and go to:
 http://localhost/Travel-Destination
 
-# 2️⃣ View the Frontend (User Website)
+2️⃣ View the Frontend (User Website)
 - Displays all travel destinations dynamically from the MySQL database.
 - Allows users to browse destinations in a clean, responsive layout.
 
-# 3️⃣ Access the Admin Dashboard (Backend)
+3️⃣ Access the Admin Dashboard (Backend)
 - Log in or Register using the admin credentials.
 - Add, edit, or delete destinations.
 - All changes are updated instantly on the frontend.
 
-# ✅ Done!
+✅ Done!
 Your Travel Destination website is now up and running locally.
 

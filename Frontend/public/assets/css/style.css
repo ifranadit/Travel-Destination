@@ -1,0 +1,123 @@
+.footer {
+    margin-top: 100px;
+    background-color: lightslategray;
+    color: white;
+    padding: 30px 0;
+    font-size: 14px;
+}
+
+.footer-container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer .column {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.footer .column:last-child {
+    margin-right: 0;
+}
+
+.footer .quick-links ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer .quick-links ul li {
+    margin-bottom: 10px;
+}
+
+.footer .quick-links ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer .contact p, .footer .newsletter p {
+    margin: 0;
+}
+
+.footer .contact i {
+    margin-right: 10px;
+}
+
+.footer .gallery img {
+    width: 80px;
+    height: 60px;
+    margin: 5px;
+    object-fit: cover;
+}
+
+.footer .social-icons {
+    margin-top: 15px;
+}
+
+.footer .social-icons a {
+    margin-right: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.newsletter form {
+    display: flex;
+    max-width: 300px;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.footer .newsletter input[type="email"] {
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    width: 200px;
+}
+
+.footer .newsletter input[type="submit"] {
+    padding: 10px 20px;
+    border: none;
+    background-color: #00c2c2;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+       .footer-bottom {
+            background-color: lightblue;
+            color: white;
+            padding: 15px 0;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .footer-bottom-container {
+            width: 80%;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 12px;
+        }
+
+        .footer-bottom .left-text {
+            text-align: left;
+            color: white;
+        }
+
+        .footer-bottom .right-text {
+            text-align: right;
+        }
+
+        .footer-bottom .right-text a {
+            color: white;
+            margin-left: 15px;
+            text-decoration: none;
+        }
+
+        .footer-bottom .right-text a:hover {
+            text-decoration: underline;
+        }
+
+
+

@@ -51,7 +51,7 @@ Ensure **XAMPP** is installed and running on your computer.
 
 ---
 
-# 🌐 How to Use
+### 🌐 How to Use
 
 1️⃣ Access the Project
 Open your browser and go to:

@@ -50,11 +50,3 @@ Ensure **XAMPP** is installed and running on your computer.
    CREATE DATABASE pariwisata_db;
 
 
----
-
-### 2️⃣ Database Setup
-1. Open **XAMPP Control Panel** → Start **Apache** and **MySQL**.  
-2. Go to [http://localhost/phpmyadmin](http://localhost/phpmyadmin).  
-3. Create a new database — for example:  
-   ```sql
-   CREATE DATABASE pariwisata_db;

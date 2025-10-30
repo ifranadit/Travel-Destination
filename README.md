@@ -37,8 +37,6 @@ This project consists of two main components — a **Frontend (User View)** and 
 
 ## 🚀 Setup & Installation Guide
 
-## 🚀 Setup & Installation Guide
-
 ### 1️⃣ Prerequisites
 Ensure **XAMPP** is installed and running on your computer.
 
